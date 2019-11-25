@@ -5,7 +5,10 @@
 # ³¿ºñ
 
 # travel 
-* boston
+* boston -> NY -> boston
+
+# wallet
+* whiskey 100dollars
 
 # Caution 
 * No Drinks
